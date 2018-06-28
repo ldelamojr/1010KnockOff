@@ -152,7 +152,7 @@ public class TenTen {
 
         // CALCULATION OF THE SIMPLE SCORE:
         // BUT FIRST A QUESTION: Can I think of a round where it would be worse
-        // to have a fewer cells or lower simple score...shit i haven't defined
+        // to have a fewer cells or lower simple score...Oops i haven't defined
         // simple score, hmmm.
         // I don't think it could ever be worse to have fewer used cells.
         // However, most of the time the number of cells for all attemptedRounds
